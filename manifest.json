@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Behavior Pack for Element Bending",
+    "name": "Element Bending BP",
+    "uuid": "123e4567-e89b-12d3-a456-426614174000",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Behavior Pack Module",
+      "type": "data",
+      "uuid": "abcd1234-ab12-cd34-ef56-123456abcdef",
+      "version": [1, 0, 0]
+    }
+  ]
+}
