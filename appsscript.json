@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Resource Pack for Element Bending",
+    "name": "Element Bending RP",
+    "uuid": "223e4567-e89b-12d3-a456-426614174111",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Resource Pack Module",
+      "type": "resources",
+      "uuid": "dcba4321-ba21-dc43-fe65-fedcba987654",
+      "version": [1, 0, 0]
+    }
+  ]
+}
